@@ -1,0 +1,3 @@
+/home/iglorik/Рабочий стол/code_practice/StructsOfData/Stack/build/CMakeFiles/testStack.dir
+/home/iglorik/Рабочий стол/code_practice/StructsOfData/Stack/build/CMakeFiles/edit_cache.dir
+/home/iglorik/Рабочий стол/code_practice/StructsOfData/Stack/build/CMakeFiles/rebuild_cache.dir
