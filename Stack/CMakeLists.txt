@@ -11,8 +11,4 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wpedantic")
 file(GLOB
             CPPS "*.cpp")
 
-set(MY_LIB_PATH ${CMAKE_SOURCE_DIR}/libStackTest.a)
-
 add_executable(${PROJECT_NAME} ${CPPS})
-
-target_link_libraries(${PROJECT_NAME} PRIVATE ${MY_LIB_PATH})
