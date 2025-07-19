@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -g -O3 -DNDEBUG -rdynamic -Wl,--dependency-file=CMakeFiles/testStack.out.dir/link.d CMakeFiles/testStack.out.dir/ListStackImpl.cpp.o CMakeFiles/testStack.out.dir/MyForwardList.cpp.o CMakeFiles/testStack.out.dir/Stack.cpp.o CMakeFiles/testStack.out.dir/Vector.cpp.o CMakeFiles/testStack.out.dir/VectorStackImpl.cpp.o -o testStack.out
