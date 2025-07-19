@@ -17,7 +17,7 @@ public:
 		должны создавать вектор, где _capacity равно _size
     */
     //! Конструктор без параметров
-    Vector() = default;
+    Vector();
     //! Конструктор с параметрами
     Vector(const T* rawArray, const size_t size, float coef = 2.0f);
     //! Конструктор копирования

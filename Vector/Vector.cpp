@@ -6,6 +6,11 @@
 
 //В этом коде не будет проверки на переполнение типов!
 template <typename T>
+Vector<T>::Vector() = default;
+
+
+
+template <typename T>
 Vector<T>::Vector(const T* rawArray, const size_t size, float coef)
 {
 
